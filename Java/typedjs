@@ -1,8 +1,8 @@
 // From This U can Type Anu Text One by one Letter Same Likey Typed.js 
 // Add Text In const texts
-// Code Made By @MuraliBotz
+// Code Made By @Rishu1286
 
-const texts = ['Welcome To My PortFolio', 'My name is Murali', 'I\'m Not A Pro Coder'];
+const texts = ['Welcome To My Website', 'My name is RISHU', 'I\'m Not A Pro Coder'];
 let currentTextIndex = 0;
 let currentCharIndex = 0;
 const typingSpeed = 100; 
